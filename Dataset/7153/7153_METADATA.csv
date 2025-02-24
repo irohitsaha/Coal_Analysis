@@ -1,0 +1,10 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Coal type,D7153_2,Key Identifier,"",0,"","","",Type of Coal namely Coal or Lignite
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Open cast mines,I7153_3,Numeric Variable,Number,1,sum,WeighingRatio_LandArea,Land Area from Census,"Open Cast mines , Open cast mining is a surface mining technique of extracting rock or minerals from the earth from an open-air pit"
+Underground mines,I7153_4,Numeric Variable,Number,1,sum,WeighingRatio_LandArea,Land Area from Census,"Underground mines, an underground coal mine is a mine at which coal is produced by tunneling into the earth to the coalbed, which is then mined with underground mining equipment such as cutting machines and continuous, longwall, and short wall mining machines, and transported to the surface"
+Mixed mines,I7153_5,Numeric Variable,Number,1,sum,WeighingRatio_LandArea,Land Area from Census,Mixed mines (Mixed mines are the combination of both Open cast and underground Mines)

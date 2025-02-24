@@ -1,0 +1,120 @@
+ROWID,Country,State lgd code,State,Yearcode,Year,Coal type,Qualtity of coal produced
+1,India,1,Jammu And Kashmir,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,0.012683565657974822
+2,India,1,Jammu And Kashmir,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,0.00975658896767294
+3,India,1,Jammu And Kashmir,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,0.013659224554742116
+4,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,0.012683565657974822
+5,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,0.013659224554742116
+6,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,0.00975658896767294
+7,India,8,Rajasthan,2015,"Financial Year (Apr - Mar), 2015",Lignite,9.492
+8,India,8,Rajasthan,2016,"Financial Year (Apr - Mar), 2016",Lignite,8.48
+9,India,8,Rajasthan,2017,"Financial Year (Apr - Mar), 2017",Lignite,9.294
+10,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",Lignite,8.676
+11,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",Lignite,8.223
+12,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",Lignite,9.056
+13,India,9,Uttar Pradesh,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,12.689
+14,India,9,Uttar Pradesh,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,16.056
+15,India,9,Uttar Pradesh,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,18.309
+16,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,20.275
+17,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,18.03
+18,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,17.016
+19,India,12,Arunachal Pradesh,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,0
+20,India,12,Arunachal Pradesh,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,0
+21,India,12,Arunachal Pradesh,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,0
+22,India,12,Arunachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,0
+23,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,0
+24,India,17,Meghalaya,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,3.712
+25,India,17,Meghalaya,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,2.308
+26,India,17,Meghalaya,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,1.529
+27,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,0
+28,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,0
+29,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,0
+30,India,18,Assam,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,0.487
+31,India,18,Assam,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,0.6
+32,India,18,Assam,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,0.781
+33,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,0.784
+34,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,0.517
+35,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,0.036
+36,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",Coking Coal,1.995
+37,India,19,West Bengal,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,23.756
+38,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",Coking Coal,1.816
+39,India,19,West Bengal,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,25.851
+40,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",Coking Coal,1.018
+41,India,19,West Bengal,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,28.222
+42,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",Coking Coal,1.056
+43,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,32.08
+44,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",Coking Coal,0.144
+45,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,33.47
+46,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",Coking,0
+47,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,30.463
+48,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",Coking Coal,58.548
+49,India,20,Jharkhand,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,62.519
+50,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",Coking Coal,59.604
+51,India,20,Jharkhand,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,66.831
+52,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",Coking Coal,38.768
+53,India,20,Jharkhand,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,84.529
+54,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",Coking Coal,39.641
+55,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,95.025
+56,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",Coking Coal,52.364
+57,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,79.399
+58,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",Coking,44.387
+59,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,79.041
+60,India,21,Odisha,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,138.461
+61,India,21,Odisha,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,139.359
+62,India,21,Odisha,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,143.328
+63,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,144.312
+64,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,143.016
+65,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,154.151
+66,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",Coking Coal,0.135
+67,India,22,Chhattisgarh,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,130.47
+68,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",Coking Coal,0.11
+69,India,22,Chhattisgarh,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,138.415
+70,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",Coking Coal,0.182
+71,India,22,Chhattisgarh,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,142.364
+72,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",Coking Coal,0.247
+73,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,161.646
+74,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",Coking Coal,0.25
+75,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,157.495
+76,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",Coking,0.219
+77,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,158.191
+78,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",Coking Coal,0.209
+79,India,23,Madhya Pradesh,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,107.505
+80,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",Coking Coal,0.131
+81,India,23,Madhya Pradesh,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,104.882
+82,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",Coking Coal,0.18
+83,India,23,Madhya Pradesh,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,111.947
+84,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",Coking Coal,0.188
+85,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,118.473
+86,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coking Coal,0.178
+87,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,125.548
+88,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coking,0.181
+89,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,132.35
+90,India,24,Gujarat,2015,"Financial Year (Apr - Mar), 2015",Lignite,10.123
+91,India,24,Gujarat,2016,"Financial Year (Apr - Mar), 2016",Lignite,10.546
+92,India,24,Gujarat,2017,"Financial Year (Apr - Mar), 2017",Lignite,13.781
+93,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",Lignite,12.566
+94,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",Lignite,10.357
+95,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",Lignite,10.813
+96,India,27,Maharashtra,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,38.351
+97,India,27,Maharashtra,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,40.559
+98,India,27,Maharashtra,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,42.219
+99,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,49.818
+100,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,54.746
+101,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,47.435
+102,India,33,Tamil Nadu,2015,"Financial Year (Apr - Mar), 2015",Lignite,24.227
+103,India,33,Tamil Nadu,2016,"Financial Year (Apr - Mar), 2016",Lignite,26.204
+104,India,33,Tamil Nadu,2017,"Financial Year (Apr - Mar), 2017",Lignite,23.569
+105,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",Lignite,23.041
+106,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",Lignite,23.516
+107,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",Lignite,18.026
+108,India,36,Telangana,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,60.38
+109,India,36,Telangana,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,61.336
+110,India,36,Telangana,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,62.01
+111,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,65.16
+112,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,65.703
+113,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,52.603
+114,India,37,Ladakh,2015,"Financial Year (Apr - Mar), 2015",Non-Coking Coal,0.0003164343420251845
+115,India,37,Ladakh,2016,"Financial Year (Apr - Mar), 2016",Non-Coking Coal,0.000243411032327065
+116,India,37,Ladakh,2017,"Financial Year (Apr - Mar), 2017",Non-Coking Coal,0.0003407754452578910
+117,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",Non-Coking Coal,0.0003164343420251845
+118,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",Non-Coking Coal,0.0003407754452578910
+119,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",Non-Coking,0.000243411032327065

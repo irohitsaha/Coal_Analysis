@@ -1,0 +1,8 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Coal type,D7156_3,Key Identifier,"",0,"","","","Type of coal namely lignite, cooking coal and non cooking coal. lignite is the lowest rank of coal due to its relatively low heat content and is used as a fuel for steam-electric power generation. coking coal is a grade of coal that can be used to produce good-quality coke where as coke is an essential fuel in the process of steelmaking. Non cooking is used as thermal coal for power generation. It has a higher ash content and also used in industries like cement, fertilizer, glass, ceramic, paper, chemical and brick manufacturing."
+Yearcode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Qualtity of coal produced,I7156_4,Numeric Variable,t ( Tonnes ),1000000,sum,WeighingRatio_LandArea,Land Area from Census,Amount of coal produced quantity in Million Tonnes

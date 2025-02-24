@@ -1,0 +1,93 @@
+ROWID,Country,State lgd code,State,Yearcode,Year,Coal type,Coal produced from proved resources,Coal produced from indicated resources,Coal produced from inferred resources
+1,India,1,Jammu And Kashmir,2018,"Financial Year (Apr - Mar), 2018",Lignite,0.000000000000000,19.75709265953770350,7.1223099464012462
+2,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",Lignite,0.000000000000000,19.75709265953770350,7.1223099464012462
+3,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",Lignite,0.000000000000000,19.75709265953770350,7.1223099464012462
+4,India,1,Jammu And Kashmir,2021,"Financial Year (Apr - Mar), 2021",Lignite,0.000000000000000,19.75709265953770350,7.1223099464012462
+5,India,8,Rajasthan,2018,"Financial Year (Apr - Mar), 2018",Lignite,1168.53,3029.78,2150.77
+6,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",Lignite,1168.53,3029.78,2150.77
+7,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",Lignite,1168.53,3029.77,2150.77
+8,India,8,Rajasthan,2021,"Financial Year (Apr - Mar), 2021",Lignite,1168.53,3029.78,2150.77
+9,India,9,Uttar Pradesh,2018,"Financial Year (Apr - Mar), 2018",Coal,884,178,0
+10,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,884,178,0
+11,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,884,178,0
+12,India,9,Uttar Pradesh,2021,"Financial Year (Apr - Mar), 2021",Coal,884,178,0
+13,India,10,Bihar,2018,"Financial Year (Apr - Mar), 2018",Coal,161,813,392
+14,India,10,Bihar,2019,"Financial Year (Apr - Mar), 2019",Coal,310,1513,11
+15,India,10,Bihar,2020,"Financial Year (Apr - Mar), 2020",Coal,310,2431,11
+16,India,10,Bihar,2021,"Financial Year (Apr - Mar), 2021",Coal,310,3143,11
+17,India,11,Sikkim,2018,"Financial Year (Apr - Mar), 2018",Coal,0,58,43
+18,India,11,Sikkim,2019,"Financial Year (Apr - Mar), 2019",Coal,0,58,43
+19,India,11,Sikkim,2020,"Financial Year (Apr - Mar), 2020",Coal,0,58,43
+20,India,11,Sikkim,2021,"Financial Year (Apr - Mar), 2021",Coal,0,58,43
+21,India,12,Arunachal Pradesh,2018,"Financial Year (Apr - Mar), 2018",Coal,31,40,19
+22,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,31,40,19
+23,India,12,Arunachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,31,40,19
+24,India,12,Arunachal Pradesh,2021,"Financial Year (Apr - Mar), 2021",Coal,31,40,19
+25,India,13,Nagaland,2018,"Financial Year (Apr - Mar), 2018",Coal,9,0,401
+26,India,13,Nagaland,2019,"Financial Year (Apr - Mar), 2019",Coal,9,22,415
+27,India,13,Nagaland,2020,"Financial Year (Apr - Mar), 2020",Coal,9,22,415
+28,India,13,Nagaland,2021,"Financial Year (Apr - Mar), 2021",Coal,9,22,416
+29,India,17,Meghalaya,2018,"Financial Year (Apr - Mar), 2018",Coal,89,17,471
+30,India,17,Meghalaya,2019,"Financial Year (Apr - Mar), 2019",Coal,89,17,471
+31,India,17,Meghalaya,2020,"Financial Year (Apr - Mar), 2020",Coal,89,17,471
+32,India,17,Meghalaya,2021,"Financial Year (Apr - Mar), 2021",Coal,89,17,471
+33,India,18,Assam,2018,"Financial Year (Apr - Mar), 2018",Coal,465,57,3
+34,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",Coal,465,57,3
+35,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",Coal,465,57,3
+36,India,18,Assam,2021,"Financial Year (Apr - Mar), 2021",Coal,465,57,3
+37,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",Coal,14156,12869,4643
+38,India,19,West Bengal,2018,"Financial Year (Apr - Mar), 2018",Lignite,0,1.13,2.8
+39,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",Coal,14219,12847,4624
+40,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",Lignite,0,1.13,2.8
+41,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",Coal,15189,13125,4623
+42,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",Lignite,0,1.13,2.8
+43,India,19,West Bengal,2021,"Financial Year (Apr - Mar), 2021",Coal,15199,13296,4597
+44,India,19,West Bengal,2021,"Financial Year (Apr - Mar), 2021",Lignite,0,1.13,2.8
+45,India,20,Jharkhand,2018,"Financial Year (Apr - Mar), 2018",Coal,45563,31439,6150
+46,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",Coal,48032,30400,6074
+47,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",Coal,49469,30284,5850
+48,India,20,Jharkhand,2021,"Financial Year (Apr - Mar), 2021",Coal,52046,28882,5288
+49,India,21,Odisha,2018,"Financial Year (Apr - Mar), 2018",Coal,37391,34165,7739
+50,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",Coal,39654,33473,7713
+51,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",Coal,40872,36067,7713
+52,India,21,Odisha,2021,"Financial Year (Apr - Mar), 2021",Coal,43326,35222,6330
+53,India,22,Chhattisgarh,2018,"Financial Year (Apr - Mar), 2018",Coal,20428,34576,2202
+54,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",Coal,21446,36260,2202
+55,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",Coal,24985,42368,2079
+56,India,22,Chhattisgarh,2021,"Financial Year (Apr - Mar), 2021",Coal,31562,40425,1437
+57,India,23,Madhya Pradesh,2018,"Financial Year (Apr - Mar), 2018",Coal,11958,12154,3875
+58,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,12182,12736,3875
+59,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,12597,12888,3799
+60,India,23,Madhya Pradesh,2021,"Financial Year (Apr - Mar), 2021",Coal,13479,13060,3678
+61,India,24,Gujarat,2018,"Financial Year (Apr - Mar), 2018",Lignite,1278.65,283.7,1159.7
+62,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",Lignite,1278.65,283.7,1159.7
+63,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",Lignite,1278.65,283.7,1159.7
+64,India,24,Gujarat,2021,"Financial Year (Apr - Mar), 2021",Lignite,1278.65,283.7,1159.7
+65,India,27,Maharashtra,2018,"Financial Year (Apr - Mar), 2018",Coal,7178,3074,2048
+66,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",Coal,7573,3257,1847
+67,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",Coal,7624,3257,1847
+68,India,27,Maharashtra,2021,"Financial Year (Apr - Mar), 2021",Coal,7770,3320,1847
+69,India,28,Andhra Pradesh,2018,"Financial Year (Apr - Mar), 2018",Coal,0,1149,432
+70,India,28,Andhra Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,97,1078,432
+71,India,28,Andhra Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,97,1078,432
+72,India,28,Andhra Pradesh,2021,"Financial Year (Apr - Mar), 2021",Coal,921,901,425
+73,India,32,Kerala,2018,"Financial Year (Apr - Mar), 2018",Lignite,0,0,9.65
+74,India,32,Kerala,2019,"Financial Year (Apr - Mar), 2019",Lignite,0,0,9.65
+75,India,32,Kerala,2020,"Financial Year (Apr - Mar), 2020",Lignite,0,0,9.65
+76,India,32,Kerala,2021,"Financial Year (Apr - Mar), 2021",Lignite,0,0,9.65
+77,India,33,Tamil Nadu,2018,"Financial Year (Apr - Mar), 2018",Lignite,4093.53,22648.33,9392.85
+78,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",Lignite,4340.35,22496.63,9392.85
+79,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",Lignite,4340.35,22496.63,9652.62
+80,India,33,Tamil Nadu,2021,"Financial Year (Apr - Mar), 2021",Lignite,4926.92,21910.06,9652.62
+81,India,34,Puducherry,2018,"Financial Year (Apr - Mar), 2018",Lignite,0,405.61,11
+82,India,34,Puducherry,2019,"Financial Year (Apr - Mar), 2019",Lignite,0,405.61,11
+83,India,34,Puducherry,2020,"Financial Year (Apr - Mar), 2020",Lignite,0,405.61,11
+84,India,34,Puducherry,2021,"Financial Year (Apr - Mar), 2021",Lignite,0,405.61,11
+85,India,36,Telangana,2018,"Financial Year (Apr - Mar), 2018",Coal,10475,8576,2651
+86,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",Coal,10622,8565,2652
+87,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",Coal,10841,8521,2863
+88,India,36,Telangana,2021,"Financial Year (Apr - Mar), 2021",Coal,11089,8328,3433
+89,India,37,Ladakh,2018,"Financial Year (Apr - Mar), 2018",Lignite,0.0000000000000000,0.492907340462306625,0.17769005359875745
+90,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",Lignite,0.0000000000000000,0.492907340462306625,0.17769005359875745
+91,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",Lignite,0.0000000000000000,0.492907340462306625,0.17769005359875745
+92,India,37,Ladakh,2021,"Financial Year (Apr - Mar), 2021",Lignite,0.0000000000000000,0.492907340462306625,0.17769005359875745

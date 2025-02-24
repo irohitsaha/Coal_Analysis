@@ -1,0 +1,31 @@
+ROWID,Country,State lgd code,State,Yearcode,Year,Coal type,Open cast mines,Underground mines,Mixed mines
+1,India,1,Jammu And Kashmir,2019,"Financial Year (Apr - Mar), 2019",Coal,0.000000000000000,1.951317793534588,0.000000000000000
+2,India,1,Jammu And Kashmir,2020,"Financial Year (Apr - Mar), 2020",Coal,0.000000000000000,1.951317793534588,0.000000000000000
+3,India,8,Rajasthan,2019,"Financial Year (Apr - Mar), 2019",Lignite,5,,
+4,India,8,Rajasthan,2020,"Financial Year (Apr - Mar), 2020",Lignite,6,,
+5,India,9,Uttar Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,5,0,0
+6,India,9,Uttar Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,5,0,0
+7,India,12,Arunachal Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,0,0,0
+8,India,12,Arunachal Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,0,0,0
+9,India,18,Assam,2019,"Financial Year (Apr - Mar), 2019",Coal,2,1,0
+10,India,18,Assam,2020,"Financial Year (Apr - Mar), 2020",Coal,2,1,0
+11,India,19,West Bengal,2019,"Financial Year (Apr - Mar), 2019",Coal,17,43,10
+12,India,19,West Bengal,2020,"Financial Year (Apr - Mar), 2020",Coal,19,43,10
+13,India,20,Jharkhand,2019,"Financial Year (Apr - Mar), 2019",Coal,74,33,12
+14,India,20,Jharkhand,2020,"Financial Year (Apr - Mar), 2020",Coal,73,26,14
+15,India,21,Odisha,2019,"Financial Year (Apr - Mar), 2019",Coal,21,8,0
+16,India,21,Odisha,2020,"Financial Year (Apr - Mar), 2020",Coal,23,8,0
+17,India,22,Chhattisgarh,2019,"Financial Year (Apr - Mar), 2019",Coal,24,29,1
+18,India,22,Chhattisgarh,2020,"Financial Year (Apr - Mar), 2020",Coal,24,28,1
+19,India,23,Madhya Pradesh,2019,"Financial Year (Apr - Mar), 2019",Coal,22,36,2
+20,India,23,Madhya Pradesh,2020,"Financial Year (Apr - Mar), 2020",Coal,22,37,2
+21,India,24,Gujarat,2019,"Financial Year (Apr - Mar), 2019",Lignite,10,,
+22,India,24,Gujarat,2020,"Financial Year (Apr - Mar), 2020",Lignite,11,,
+23,India,27,Maharashtra,2019,"Financial Year (Apr - Mar), 2019",Coal,38,16,0
+24,India,27,Maharashtra,2020,"Financial Year (Apr - Mar), 2020",Coal,38,16,0
+25,India,33,Tamil Nadu,2019,"Financial Year (Apr - Mar), 2019",Lignite,3,,
+26,India,33,Tamil Nadu,2020,"Financial Year (Apr - Mar), 2020",Lignite,3,,
+27,India,36,Telangana,2019,"Financial Year (Apr - Mar), 2019",Coal,19,27,0
+28,India,36,Telangana,2020,"Financial Year (Apr - Mar), 2020",Coal,19,29,0
+29,India,37,Ladakh,2019,"Financial Year (Apr - Mar), 2019",Coal,0.0000000000000000,0.0486822064654130,0.0000000000000000
+30,India,37,Ladakh,2020,"Financial Year (Apr - Mar), 2020",Coal,0.0000000000000000,0.0486822064654130,0.0000000000000000
